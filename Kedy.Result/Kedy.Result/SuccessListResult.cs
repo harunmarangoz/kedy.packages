@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace Kedy.Result;
 
 public class SuccessListResult<T> : ListResult<T>

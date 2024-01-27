@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace Kedy.Result;
 
 public class PagedResult<T> : ListResult<T>, IPagedResult<T>

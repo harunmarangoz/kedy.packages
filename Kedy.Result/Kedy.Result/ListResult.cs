@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace Kedy.Result;
 
 public class ListResult<T> : DataResult<List<T>>, IListResult<T>

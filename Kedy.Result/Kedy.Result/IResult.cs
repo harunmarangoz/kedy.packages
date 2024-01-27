@@ -1,4 +1,6 @@
-﻿namespace Kedy.Result;
+﻿using System.Collections.Generic;
+
+namespace Kedy.Result;
 
 public interface IResult
 {
